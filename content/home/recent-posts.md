@@ -1,6 +1,6 @@
 ---
 widget: landing
-widget_id: Recent Posts
+widget_id: recent-posts
 headless: true
 weight: 10
 title: Qichang Ma

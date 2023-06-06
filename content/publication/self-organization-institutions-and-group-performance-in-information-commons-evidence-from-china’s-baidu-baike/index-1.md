@@ -45,8 +45,10 @@ title: "Harnessing the power of community for authoritarian surveillance: Baidu
 subtitle: ""
 tags:
   - Information Provision
-  - Extradition
-  - Collective Action
+  - Censorship
+  - Digital Governance
+categories:
+  - Information Provision
 projects: []
 image:
   caption: ""

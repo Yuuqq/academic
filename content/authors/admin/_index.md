@@ -22,12 +22,12 @@ education:
   courses:
     - course: Ph.D. in Politics and Public Administration
       institution: The University of Hong Kong
-      year: ""
+      year: "2019-2023"
 superuser: true
 status:
   icon: ☕️
 last_name: Ma
-role: " Ph.D. candidate"
+role: " Ph.D. Candidate"
 highlight_name: true
 title: Qichang Ma 馬琪昌
 first_name: Qichang

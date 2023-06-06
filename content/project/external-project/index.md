@@ -6,7 +6,8 @@ summary: ""
 featured: true
 tags:
   - Censorship
-  - Information Provision，Digital Governance
+  - Information Provision
+  - Digital Governance
 categories:
   - Digital Governance
 external_link: ""

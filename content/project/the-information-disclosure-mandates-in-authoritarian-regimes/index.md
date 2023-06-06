@@ -10,7 +10,8 @@ authors:
   - Qichang Ma
 tags:
   - ESG
-  - Information Disclosure，Information Provision
+  - Information Disclosure
+  - Information Provision
   - Policy Information
 categories:
   - Information Provision

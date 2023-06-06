@@ -18,8 +18,8 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo academic resume theme powered by Wowchemy website builder.'
-    twitter: 'wowchemy'
+    description: 'I am a Ph.D. candidate in the Department of Politics and Public Administration at the University of Hong Kong.'
+    twitter: ''
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -53,7 +53,7 @@ footer:
 # Localization
 
 locale:
-  date_format: 'Jan 2, 2006'
+  date_format: 'Jan 2, 2023'
   time_format: '3:04 PM'
   address_format: en-us
 

@@ -11,22 +11,6 @@ sections:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-  - block: features
-    content:
-      title: Skills
-      items:
-        - name: R
-          description: 80%
-          icon: r-project
-          icon_pack: fab
-        - name: Python
-          description: 80%
-          icon: python 
-          icon_pack: fab
-        - name: Statistics
-          description: 85%
-          icon: chart-line
-          icon_pack: fas
   #- block: experience
   #  content:
   #    title: Experience
@@ -151,7 +135,7 @@ sections:
           tag: Information Provision
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
-      columns: '2'
+      columns: '1'
       view: showcase
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
@@ -198,6 +182,22 @@ sections:
   #  design:
   #    columns: '2'
   #    view: compact
+  - block: features
+    content:
+      title: Skills
+      items:
+        - name: R
+          description: 80%
+          icon: r-project
+          icon_pack: fab
+        - name: Python
+          description: 80%
+          icon: python 
+          icon_pack: fab
+        - name: Statistics
+          description: 85%
+          icon: chart-line
+          icon_pack: fas
   - block: tag_cloud
     content:
       title: Popular Topics

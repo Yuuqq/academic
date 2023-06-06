@@ -27,8 +27,7 @@ superuser: true
 status:
   icon: ☕️
 last_name: Wu
-role: " Ph.D. candidate in the Department of Politics and Public Administration
-  at the University of Hong Kong"
+role: " Ph.D. candidate in the Department of Politics and Public Administration"
 highlight_name: true
 title: Qichang Ma 馬琪昌
 first_name: Alice

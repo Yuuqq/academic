@@ -11,8 +11,9 @@ authors:
 tags:
   - ESG
   - Information Disclosure，Information Provision
-categories:
   - Policy Information
+categories:
+  - Information Provision
 image:
   filename: ""
   focal_point: Smart

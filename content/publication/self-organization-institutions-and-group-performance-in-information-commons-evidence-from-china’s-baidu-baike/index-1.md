@@ -40,8 +40,8 @@ publication: In the 6th International Conference on Public Policy
 featured: true
 date: 2023-06-06T12:38:34.076Z
 url_slides: ""
-title: "Self-Organization, Institutions, and Group Performance in Information
-  Commons:  Evidence from China’s Baidu Baike"
+title: "Harnessing the power of community for authoritarian surveillance: Baidu
+  Baike's strategy"
 subtitle: ""
 tags:
   - Information Provision

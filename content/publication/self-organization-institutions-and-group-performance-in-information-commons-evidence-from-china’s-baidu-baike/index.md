@@ -4,7 +4,7 @@ draft: false
 slides: ""
 url_pdf: ""
 publication_types:
-  - "1"
+  - "0"
 authors:
   - Qichang Ma
   - Kwan Nok Chan

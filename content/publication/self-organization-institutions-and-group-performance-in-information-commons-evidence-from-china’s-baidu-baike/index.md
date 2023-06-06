@@ -9,15 +9,15 @@ authors:
   - Qichang Ma
   - Kwan Nok Chan
 summary: ""
-url_dataset: https://github.com/wowchemy/wowchemy-hugo-themes
+url_dataset: ""
 url_project: ""
 publication_short: ""
-url_source: https://github.com/wowchemy/wowchemy-hugo-themes
-url_video: https://youtube.com
+url_source: ""
+url_video: ""
 author_notes:
   - Equal contribution
   - Equal contribution
-publication: In 15th Annual Conference of the Comparative Agendas Project
+publication: In the 15th Annual Conference of the Comparative Agendas Project
 featured: true
 date: 2023-06-06T12:38:18.674Z
 url_slides: ""
@@ -37,6 +37,6 @@ image:
   preview_only: false
 publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
-url_code: https://github.com/wowchemy/wowchemy-hugo-themes
+url_code: 
 doi: ""
 ---

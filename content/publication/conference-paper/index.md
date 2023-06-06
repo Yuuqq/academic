@@ -44,7 +44,7 @@ image:
   caption: ""
   focal_point: ""
   preview_only: false
-publishDate: 2017-01-01T00:00:00.000Z
+publishDate: 2020-01-01T00:00:00.000Z
 url_poster: ""
 url_code: 
 doi: http://hdl.handle.net/10722/308138

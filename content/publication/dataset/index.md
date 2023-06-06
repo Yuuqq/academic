@@ -3,7 +3,7 @@ title: Protest-Related Posts on the LIHKG Forum from June 10 to July 11 2019
 publication_types:
   - "0"
 authors:
-  - Lihkg
+  - Lihkg, Qichang Ma, Kwan Nok Chan, Wai Fung Lam
 doi: https://doi.org/10.25442/hku.22723636.v2
 draft: false
 featured: true

@@ -1,12 +1,12 @@
 ---
-title: Harnessing the power of community for authoritarian surveillance
+title: Content moderation on China's online platforms
 subtitle: ""
 date: 2023-06-06T10:02:30.278Z
 summary: ""
 featured: true
 tags:
   - Censorship
-  - Information Provision，Online Governance
+  - Information Provision，Digital Governance
 categories:
   - Digital Governance
 external_link: ""

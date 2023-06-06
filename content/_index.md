@@ -62,7 +62,7 @@ sections:
   #        description: Taught electronic engineering and researched semiconductor physics.
    # design:
    #   columns: '2'
-  #- block: accomplishments
+  # - block: accomplishments
   #  content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
   #    title: 'Accomplish&shy;ments'
@@ -128,7 +128,7 @@ sections:
       # Choose a layout view
   #    view: compact
   #    columns: '2'
-  #- block: portfolio
+  - block: portfolio
     id: projects
     content:
       title: Projects
@@ -208,8 +208,8 @@ sections:
     content:
       title: Contact
       subtitle:
-      text: |-
-        #Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
+      # text: |-
+        # Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
       # Contact (add or remove contact options as necessary)
       email: qcma@connect.hku.hk
       #phone: 888 888 88 88

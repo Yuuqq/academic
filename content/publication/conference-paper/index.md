@@ -37,6 +37,8 @@ tags:
   - Information Provision
   - Extradition
   - Collective Action
+categories:
+  - Information Provision
 projects: []
 image:
   caption: ""

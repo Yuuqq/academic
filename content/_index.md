@@ -21,8 +21,8 @@ sections:
           icon_pack: fab
         - name: Python
           description: 80%
-          icon: fa-python 
-          icon_pack: fas
+          icon: python 
+          icon_pack: fab
         - name: Statistics
           description: 85%
           icon: chart-line

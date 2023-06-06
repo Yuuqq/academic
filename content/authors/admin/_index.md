@@ -20,7 +20,7 @@ organizations:
     url: https://www.hku.edu/
 education:
   courses:
-    - course: PhD in Politics and Public Administration
+    - course: Ph.D. in Politics and Public Administration
       institution: The University of Hong Kong
       year: ""
 superuser: true

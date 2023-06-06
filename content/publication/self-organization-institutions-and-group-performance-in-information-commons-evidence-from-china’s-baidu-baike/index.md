@@ -25,11 +25,11 @@ title: "Self-Organization, Institutions, and Group Performance in Information
   Commons:  Evidence from China’s Baidu Baike"
 subtitle: ""
 tags:
-  - Information Provision
-  - Extradition
+  - Digital Governance
   - Collective Action
+  - Self-governance
 categories:
-  - Information Provision
+  - Digital Governance
 projects: []
 image:
   caption: ""

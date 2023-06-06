@@ -37,7 +37,7 @@ author_notes:
   - Equal contribution
   - Equal contribution
 publication: In the 6th International Conference on Public Policy
-featured: true
+featured: false
 date: 2023-06-06T12:38:34.076Z
 url_slides: ""
 title: "Harnessing the power of community for authoritarian surveillance: Baidu

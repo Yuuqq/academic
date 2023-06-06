@@ -1,5 +1,5 @@
 ---
-title: Content moderation on China's online platforms
+title: Content Moderation on China's Online Platforms
 subtitle: ""
 date: 2023-06-06T10:02:30.278Z
 summary: ""

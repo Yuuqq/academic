@@ -1,5 +1,5 @@
 ---
-title: Organizing information provision in decentralized groups
+title: Organizing Information Provision in Decentralized Groups
 subtitle: Evidence from the Hong Kong 2019 protests
 date: 2023-06-06T11:12:30.279Z
 draft: false

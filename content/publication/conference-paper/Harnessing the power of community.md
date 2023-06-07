@@ -12,8 +12,7 @@ abstract: Balancing the decentralized user participation and centralized control
   Therefore, new strategies have been adopted to control the information with
   new actors under the authoritarian regime. For example, online platforms are
   required to participate in mass surveillance and directly or indirectly
-  contribute to censorship (Gallagher and Miller, 2021; Hassid, 2020) through
-  the participation and collaborations of different actors. However, the extant
+  contribute to censorship through the participation and collaborations of different actors. However, the extant
   literature rarely focuses on these new trends. Here, the case of Baidu Baike
   (a Chinese online encyclopedia) offers insights into how the authoritarian
   regime relies on variously restricted communities and their actors (platform

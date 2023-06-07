@@ -1,5 +1,5 @@
 ---
-title: The Information Disclosure Mandates in Authoritarian Regimes
+title: Information Disclosure Mandates in Authoritarian Regimes
 subtitle: Are Politically Connected Firms More Responsive to Policy Signal?
 date: 2023-06-06T11:10:13.116Z
 draft: false

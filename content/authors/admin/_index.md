@@ -35,7 +35,7 @@ email: qcma@connect.hku.hk
 ---
 I am a Ph.D. candidate in the Department of Politics and Public Administration at the University of Hong Kong. My substantive research focuses on issues of digital governance, information commons, and policy information. My methodological research focuses on developing computational methods for institutional analysis from digital platforms and policy documents. 
 
-I currently lead a project investigating models of user collaboration in information commons under the supervision of Prof. Kwan Nok Chan. I also participate in a study examining practices of content moderation on Chinese online platforms, also with Prof. Chan. These research endeavors have been supported in part from the Hong Kong's UGC.
+My doctoral work aims to develop novel theoretical and methodological frameworks to examine institutional design and its impacts in cyberspace. By investigating the architecture and dynamics of self-governing collaborative groups, I endeavor to gain insights into emerging approaches of information governance and sharing in the Internet age.
 
 
 {style="text-align: justify;"}

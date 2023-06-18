@@ -37,7 +37,7 @@ featured: true
 date: 2023-06-06T12:38:18.674Z
 url_slides: ""
 title: "Self-Organization, Institutions, and Group Performance in Information
-  Commons:  Evidence from China’s Baidu Baike"
+  Commons:  Evidence from China's Baidu Baike"
 subtitle: ""
 tags:
   - Digital Governance

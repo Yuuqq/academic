@@ -30,7 +30,7 @@ publication: In the Society for Hong Kong Studies (SHKS) Annual Conference 2021
 featured: true
 date: 2021-06-25T09:53:56.451Z
 url_slides: ""
-title: 'Distributed Control of Collective Information: Evidence from Hong Kong's "Anti-Extradition" Protest'
+title: 'Distributed Control of Collective Information'
 subtitle: ""
 tags:
   - Information Provision

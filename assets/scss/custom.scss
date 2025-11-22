@@ -1,0 +1,42 @@
+/* Custom CSS */
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@400;700&display=swap');
+
+/* Override fonts to ensure Chinese characters support */
+body, h1, h2, h3, h4, h5, h6, .navbar-brand {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji", "Noto Sans SC";
+}
+
+/* Justify biography text */
+.article-style p {
+  text-align: justify;
+}
+
+/* Enhance navbar */
+.navbar {
+  box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+}
+
+/* Improve card styling */
+.card-simple {
+  transition: transform 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
+}
+
+.card-simple:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+/* Enhance links */
+a {
+  transition: color 0.2s ease-in-out;
+}
+
+/* Improve spacing in biography */
+#profile .portrait-title h2 {
+  margin-bottom: 0.5rem;
+}
+
+/* Make sure icons in skills section are aligned nicely */
+.feature-icon {
+  margin-bottom: 1rem;
+}

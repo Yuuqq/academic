@@ -10,7 +10,6 @@ tags:
   - Digital Governance
 categories:
   - Digital Governance
-external_link: ""
 image:
   caption: ""
   focal_point: Smart

@@ -1,0 +1,25 @@
+hugo: downloading modules …
+hugo: collected modules in 8593 ms
+Start building sites …
+hugo v0.111.3+extended linux/amd64 BuildDate=unknown
+
+                   | EN
+-------------------+-----
+  Pages            | 63
+  Paginator pages  |  1
+  Non-page files   |  6
+  Static files     |  9
+  Processed images | 16
+  Aliases          | 21
+  Sitemaps         |  1
+  Cleaned          |  0
+
+Built in 734 ms
+Watching for changes in /app/{assets,content,data,static}
+Watching for changes in /tmp/hugo_cache/modules/filecache/modules/pkg/mod/github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy/v5@v5.7.1-0.20230420205746-951c7b6f709d/{archetypes,assets,data,i18n,layouts,static}
+Watching for config changes in /app/config/_default, /tmp/hugo_cache/modules/filecache/modules/pkg/mod/github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy/v5@v5.7.1-0.20230420205746-951c7b6f709d/config.yaml, /app/go.mod
+Environment: "development"
+Serving pages from memory
+Running in Fast Render Mode. For full rebuilds on change: hugo server --disableFastRender
+Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Press Ctrl+C to stop

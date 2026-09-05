@@ -4,7 +4,6 @@ summary: ""
 url_video: ""
 date: 2023-04-27T00:00:00Z
 featured: true
-external_link: ""
 url_slides: ""
 title: User Collaboration in Information Commons
 tags:

@@ -1,0 +1,9 @@
+{
+  "name": "academic",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Personal academic website built with Hugo Academic",
+  "devDependencies": {
+    "netlify-plugin-hugo-cache-resources": "^0.2.1"
+  }
+}

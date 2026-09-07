@@ -12,9 +12,6 @@ social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
-  - icon: cv
-    icon_pack: ai
-    link: uploads/CV_Qichang Ma_20230606_en.pdf
 organizations:
   - name: The University of Hong Kong
     url: https://www.hku.edu/
